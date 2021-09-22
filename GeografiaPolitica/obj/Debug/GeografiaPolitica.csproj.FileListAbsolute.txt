@@ -1,0 +1,10 @@
+C:\Users\cleit\Documents\GeografiaPolitica-main\GeografiaPolitica\bin\Debug\GeografiaPolitica.exe.config
+C:\Users\cleit\Documents\GeografiaPolitica-main\GeografiaPolitica\bin\Debug\GeografiaPolitica.exe
+C:\Users\cleit\Documents\GeografiaPolitica-main\GeografiaPolitica\bin\Debug\GeografiaPolitica.pdb
+C:\Users\cleit\Documents\GeografiaPolitica-main\GeografiaPolitica\obj\Debug\GeografiaPolitica.csproj.AssemblyReference.cache
+C:\Users\cleit\Documents\GeografiaPolitica-main\GeografiaPolitica\obj\Debug\GeografiaPolitica.Form1.resources
+C:\Users\cleit\Documents\GeografiaPolitica-main\GeografiaPolitica\obj\Debug\GeografiaPolitica.Properties.Resources.resources
+C:\Users\cleit\Documents\GeografiaPolitica-main\GeografiaPolitica\obj\Debug\GeografiaPolitica.csproj.GenerateResource.cache
+C:\Users\cleit\Documents\GeografiaPolitica-main\GeografiaPolitica\obj\Debug\GeografiaPolitica.csproj.CoreCompileInputs.cache
+C:\Users\cleit\Documents\GeografiaPolitica-main\GeografiaPolitica\obj\Debug\GeografiaPolitica.exe
+C:\Users\cleit\Documents\GeografiaPolitica-main\GeografiaPolitica\obj\Debug\GeografiaPolitica.pdb
